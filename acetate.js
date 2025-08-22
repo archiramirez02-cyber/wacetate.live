@@ -12,7 +12,8 @@ Object.assign(overlay.style, {
 document.body.appendChild(overlay);
 
 let img = document.createElement('img');
-img.src = 'https://avatars.githubusercontent.com/u/179284048?v=4';
+img.src = 'https://www.airhistory.net/photos/0312080.jpg
+';
 Object.assign(img.style, {
   width: '600px',
   height: '600px',
